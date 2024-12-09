@@ -1,5 +1,5 @@
-use advent_code_day1::day3;
+use advent_code_day1::day5;
 
 fn main() {
-    day3::puzzle3();
+    day5::main();
 }
